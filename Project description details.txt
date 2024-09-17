@@ -1,1 +1,2 @@
-Projekat se odnosi na aplikaciju za narucivanje hrane
+Projekat se odnosi na aplikaciju za narucivanje hrane.
+Aplikacija podrazumeva komunikaciju izmedju kupca i potrosaca.
